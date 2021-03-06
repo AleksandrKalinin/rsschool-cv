@@ -1,13 +1,13 @@
 # Aleksandr Kalinin
 ## Education
-***City of study:*** Gomel
-***Educational establishment:*** Francisk Skorina Gomel State University
-***Faculty:*** Faculty of Mathematics and Programming Technologies
-***Department:*** Department of Mathematical Problems of Management and Informatics
+***City of study:***  Gomel
+***Educational establishment:***  Francisk Skorina Gomel State University
+***Faculty:***  Faculty of Mathematics and Programming Technologies
+***Department:***  Department of Mathematical Problems of Management and Informatics
 ***Education form:*** Full-time
-***Degree information:*** Graduate (master)
-***Graduation year:*** 2019
-***Assignment:*** Assigned
+***Degree information:***  Graduate (master)
+***Graduation year:***  2019
+***Assignment:***  Assigned
 
 ## English Proficiency
 Pre-Intermediate
