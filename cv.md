@@ -1,5 +1,5 @@
 # Aleksandr Kalinin
-##Education
+## Education
 ***City of study:*** Gomel
 ***Educational establishment:*** Francisk Skorina Gomel State University
 ***Faculty:*** Faculty of Mathematics and Programming Technologies
@@ -9,10 +9,10 @@
 ***Graduation year:*** 2019
 ***Assignment:*** Assigned
 
-##English Proficiency
+## English Proficiency
 Pre-Intermediate
 
-##Skills
+## Skills
 - Html5
 - CSS3
 - SASS/LESS
@@ -21,5 +21,6 @@ Pre-Intermediate
 - Node.js
 - MongoDB
 
+## Contact me
 > +375447396417
 > aleksandr_kalinin_1995@mail.ru
